@@ -14,3 +14,7 @@ A simple Python script that calculates Body Mass Index (BMI) based on user input
 
 ```bash
 python vki.py
+
+Enter your weight (kg): 70  
+Enter your height (m): 1.75  
+Your BMI is: 22.86 (Normal)
